@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Loading the data
-df=pd.read_csv("G:\Pratik Profile PC\Desktop\PRODIGY INFOTECH INTERNSHIP TASKS\TASK_01\world_population.csv")
+df=pd.read_csv("G:/Pratik Profile PC/Desktop/PRODIGY INFOTECH INTERNSHIP TASKS/TASK_01/world_population.csv")
 
 #Top 5 values of our dataset
 df.head()
