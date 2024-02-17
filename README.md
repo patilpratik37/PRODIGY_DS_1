@@ -4,7 +4,7 @@ Excited to share that I've successfully completed my first task as a Data Scienc
 
 During this experience, I had the opportunity to analyze and interpret data about the bar chart and histogram, it is a graphical representation of the distribution of data points in a dataset. 
 
-🔍 I applied my skills with the help of Google Colab notebook to uncover insights, enhance decision-making processes, and analyze the pattern of the dataset. 📈
+🔍 I applied my skills with the help of VSCode notebook to uncover insights, enhance decision-making processes, and analyze the pattern of the dataset. 📈
 
 🔍 Actively engaged in continuous learning, staying abreast of the latest trends in data science and technology. 🚀 Excited about the opportunity to apply my expanding skill set to future projects and challenges.
 
@@ -12,7 +12,7 @@ During this experience, I had the opportunity to analyze and interpret data abou
 
 ## Requirements
 
-- Python 3
+- Python 3.11.7 or any Python 3 version
 - `pandas`
 - `numpy`
 - `matplotlib`
